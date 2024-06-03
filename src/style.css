@@ -1,0 +1,185 @@
+header {
+  padding: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 20px;
+  font-family: arial;
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  height: 20px;
+}
+
+.bi-fire {
+  color: rgb(229, 68, 23);
+  font-size: 30px;
+}
+
+.download {
+  background-color: rgb(6, 6, 6);
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-radius: 5px;
+}
+
+.item {
+  margin: 10px;
+}
+
+.brand-title {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.section-first {
+  display: grid;
+  grid-template-columns: 7fr 5fr;
+  margin-top: 30px;
+  margin-left: 80px;
+}
+
+.section1 {
+  margin-top: 70px;
+  margin-left: 90px;
+}
+
+.section1-item {
+  font-family: Arial Black;
+}
+
+/* SECOND */
+
+.section-second {
+  display: grid;
+  grid-template-columns: 5fr 7fr;
+  margin-top: 80px;
+  margin-left: 30px;
+}
+
+.section-item-paragraph {
+  color: rgb(104, 110, 110);
+}
+
+.bi-box-fill {
+  color: rgb(229, 68, 23);
+}
+
+.bi-star-fill {
+  color: rgb(229, 68, 23);
+}
+
+.bi-hexagon-fill {
+  color: rgb(229, 68, 23);
+}
+
+/* THREE */
+
+.section-three {
+  display: grid;
+  grid-template-columns: 7fr 5fr;
+  margin-top: 80px;
+  margin-left: 80px;
+}
+
+.bi-bell-fill {
+  background-color: rgb(229, 68, 23);
+  color: white;
+  padding: 9px;
+  border-radius: 25px;
+}
+
+.section2-1 {
+  margin-left: 30px;
+}
+
+.bi-stars {
+  background-color: rgb(229, 68, 23);
+  color: white;
+  padding: 9px;
+  border-radius: 25px;
+}
+
+/* FOUR */
+
+.section-four {
+  display: grid;
+  grid-template-columns: 5fr 7fr;
+  margin-top: 80px;
+  margin-left: 80px;
+}
+
+.section3-2 {
+  margin-top: 90px;
+}
+
+/* five */
+
+.section-five {
+  margin-top: 80px;
+}
+
+.section-five-one {
+  display: grid;
+  grid-template-columns: 5fr 7fr;
+  margin-top: 80px;
+  margin-left: 110px;
+}
+
+.section-five-head {
+  text-align: center;
+}
+
+
+/* six */
+.section-six {
+  margin-left: 90px;
+  margin-top: 80px;
+}
+
+.section-six-grid {
+  display: grid;
+  grid-template-columns: 7fr 7fr;
+  margin-left: 90px;
+  margin-top: 30px;
+}
+
+/* FOOTER */
+.title-item {
+  margin-left: 80px;
+  margin-top: 80px;
+  margin-right: 80px;
+  padding-top: 35px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 100px;
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr 2fr 2fr 2fr;
+}
+
+.footer-title {
+  display: block;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: arial;
+  margin-bottom: 20px;
+}
+
+.footer-title~span {
+  font-family: arial;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.subbutton {
+  background-color: black;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 35px;
+  padding-right: 35px;
+  border-radius: 5px;
+
+}
